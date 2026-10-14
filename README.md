@@ -1,27 +1,19 @@
-<!-- Painel Superior: Terminal Neofetch -->
-<div align="center">
-  <img src="./neofetch_phantom_thieves.svg" width="100%" alt="Neofetch Terminal" />
-</div>
+<p align="center">
+  <a href="https://github.com/dzinhoavi">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg">
+      <source media="(prefers-color-scheme: light)" srcset="light_mode.svg">
+      <img alt="dzinhoavi neofetch" src="dark_mode.svg">
+    </picture>
+  </a>
+</p>
 
-<br/>
+## Hi, I'm dzinhoavi
 
-<!-- Painel Inferior: Bio à esquerda + Imagem/GIF à direita -->
-<table>
-  <tr>
-    <td width="60%" valign="top">
-      <h3>🎩 Hi, I'm [Seu Nome]</h3>
-      <blockquote>
-        <p>Hey! I'm a <b>Computer Science student</b> and <b>Software Engineer</b>, obsessed with building resilient, low-latency software.</p>
-        <p>My core focus lies in <b>backend architecture, operating systems internals, and security</b>, understanding how systems behave down to the wire. Off the clock, you'll find me tinkering with <b>homelabs & hardware modding</b> and taking a lifelong detour through <b>Persona 5</b>.</p>
-      </blockquote>
-      <br/>
-      <p align="center">
-        <i><b>"Take Your Heart"</b></i>
-      </p>
-    </td>
-    <td width="40%" valign="middle" align="center">
-      <!-- Coloque aqui o caminho ou URL da sua imagem/GIF lateral -->
-      <img src="https://exemplo.com/sua-imagem-lateral.jpg" width="100%" alt="Side Art" />
-    </td>
-  </tr>
-</table>
+Software Engineer focado em desenvolvimento **full-stack**, usando **Java, Python e C**. Estudante na **Universidade Veiga de Almeida**.
+
+Fora do código: jogos, músicas, animes e filmes.
+
+📫 **Contato:** davioviegas@gmail.com
+
+<p align="center"><i>"Take Your Heart"</i></p>
