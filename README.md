@@ -8,7 +8,7 @@
   </a>
 </p>
 
-## Hi, I'm dzinhoavi
+## Hi, I'm Davi Viegas
 
 Software Engineer focado em desenvolvimento **full-stack**, usando **Java, Python e C**. Estudante na **Universidade Veiga de Almeida**.
 
