@@ -58,7 +58,7 @@
 <text x="394" y="168" xml:space="preserve" class="mono"><tspan class="val">C:\&gt; neofetch</tspan></text>
 <text x="394" y="204" xml:space="preserve" class="mono"><tspan class="key">dzinhoavi@github</tspan> <tspan class="dots">---------------------------------</tspan></text>
 <text x="394" y="222" xml:space="preserve" class="mono"><tspan class="key">Role:</tspan><tspan class="dots"> .......................... </tspan><tspan class="val">Software Engineer</tspan></text>
-<text x="394" y="240" xml:space="preserve" class="mono"><tspan class="key">Uptime:</tspan><tspan class="dots"> ............... </tspan><tspan class="val">21 years, 2 months, 5 days</tspan></text>
+<text x="394" y="240" xml:space="preserve" class="mono"><tspan class="key">Uptime:</tspan><tspan class="dots"> ............... </tspan><tspan class="val">21 years, 2 months, 6 days</tspan></text>
 <text x="394" y="258" xml:space="preserve" class="mono"><tspan class="key">Host:</tspan><tspan class="dots"> .............. </tspan><tspan class="val">Universidade Veiga de Almeida</tspan></text>
 <text x="394" y="276" xml:space="preserve" class="mono"><tspan class="key">IDE:</tspan><tspan class="dots"> ....................... </tspan><tspan class="val">VSCode, IntelliJ IDEA</tspan></text>
 <text x="394" y="312" xml:space="preserve" class="mono"><tspan class="key">Languages.Code:</tspan><tspan class="dots"> .................. </tspan><tspan class="val">Java, Python, C</tspan></text>
@@ -77,10 +77,10 @@
 <rect x="455" y="515" width="317" height="160" fill="#c0c0c0"/><path d="M455.5,674.5V515.5H771.5" stroke="#fff" fill="none"/><path d="M771.5,515.5V674.5H455.5" stroke="#000" fill="none"/><path d="M456.5,673.5V516.5H770.5" stroke="#dfdfdf" fill="none"/><path d="M770.5,516.5V673.5H456.5" stroke="#808080" fill="none"/><rect x="458" y="518" width="311" height="18" fill="url(#tb)"/><text x="463" y="531" class="ttl">GitHub Stats</text><rect x="717" y="520" width="16" height="14" fill="#c0c0c0"/><path d="M717.5,533.5V520.5H732.5" stroke="#fff" fill="none"/><path d="M732.5,520.5V533.5H717.5" stroke="#000" fill="none"/><path d="M718.5,532.5V521.5H731.5" stroke="#dfdfdf" fill="none"/><path d="M731.5,521.5V532.5H718.5" stroke="#808080" fill="none"/><rect x="721" y="529" width="6" height="2" fill="#000"/><rect x="733" y="520" width="16" height="14" fill="#c0c0c0"/><path d="M733.5,533.5V520.5H748.5" stroke="#fff" fill="none"/><path d="M748.5,520.5V533.5H733.5" stroke="#000" fill="none"/><path d="M734.5,532.5V521.5H747.5" stroke="#dfdfdf" fill="none"/><path d="M747.5,521.5V532.5H734.5" stroke="#808080" fill="none"/><rect x="736.5" y="522.5" width="9" height="8" fill="none" stroke="#000"/><rect x="736" y="522" width="10" height="2" fill="#000"/><rect x="751" y="520" width="16" height="14" fill="#c0c0c0"/><path d="M751.5,533.5V520.5H766.5" stroke="#fff" fill="none"/><path d="M766.5,520.5V533.5H751.5" stroke="#000" fill="none"/><path d="M752.5,532.5V521.5H765.5" stroke="#dfdfdf" fill="none"/><path d="M765.5,521.5V532.5H752.5" stroke="#808080" fill="none"/><path d="M755,523L762,530M762,523L755,530" stroke="#000" stroke-width="1.6" fill="none"/>
 <rect x="465" y="546" width="297" height="119" fill="#fff"/><path d="M465.5,664.5V546.5H761.5" stroke="#808080" fill="none"/><path d="M761.5,546.5V664.5H465.5" stroke="#fff" fill="none"/><path d="M466.5,663.5V547.5H760.5" stroke="#404040" fill="none"/><path d="M760.5,547.5V663.5H466.5" stroke="#dfdfdf" fill="none"/>
 <text x="473" y="566" class="uib">Repos</text>
-<text x="754" y="566" text-anchor="end" class="ui">9 {Contributed: 3}</text>
+<text x="754" y="566" text-anchor="end" class="ui">10 {Contributed: 3}</text>
 <path d="M469,571.5H758" stroke="#c0c0c0"/>
 <text x="473" y="592" class="uib">Commits</text>
-<text x="754" y="592" text-anchor="end" class="ui">70</text>
+<text x="754" y="592" text-anchor="end" class="ui">79</text>
 <path d="M469,597.5H758" stroke="#c0c0c0"/>
 <text x="473" y="618" class="uib">Stars</text>
 <text x="754" y="618" text-anchor="end" class="ui">0</text>
@@ -113,5 +113,5 @@
 <rect x="72" y="848" width="150" height="22" fill="#d8d8d8"/><path d="M72.5,869.5V848.5H221.5" stroke="#808080" fill="none"/><path d="M221.5,848.5V869.5H72.5" stroke="#fff" fill="none"/><path d="M73.5,868.5V849.5H220.5" stroke="#404040" fill="none"/><path d="M220.5,849.5V868.5H73.5" stroke="#dfdfdf" fill="none"/>
 <text x="80" y="863" class="uib">dzinhoavi@github</text>
 <rect x="660" y="848" width="128" height="22" fill="#fff"/><path d="M660.5,869.5V848.5H787.5" stroke="#808080" fill="none"/><path d="M787.5,848.5V869.5H660.5" stroke="#fff" fill="none"/><path d="M661.5,868.5V849.5H786.5" stroke="#404040" fill="none"/><path d="M786.5,849.5V868.5H661.5" stroke="#dfdfdf" fill="none"/>
-<text x="724" y="863" text-anchor="middle" class="ui">Updated 22/11/2026</text>
+<text x="724" y="863" text-anchor="middle" class="ui">Updated 23/11/2026</text>
 </svg>
