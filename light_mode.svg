@@ -58,7 +58,7 @@
 <text x="394" y="168" xml:space="preserve" class="mono"><tspan class="val">C:\&gt; neofetch</tspan></text>
 <text x="394" y="204" xml:space="preserve" class="mono"><tspan class="key">dzinhoavi@github</tspan> <tspan class="dots">---------------------------------</tspan></text>
 <text x="394" y="222" xml:space="preserve" class="mono"><tspan class="key">Role:</tspan><tspan class="dots"> .......................... </tspan><tspan class="val">Software Engineer</tspan></text>
-<text x="394" y="240" xml:space="preserve" class="mono"><tspan class="key">Uptime:</tspan><tspan class="dots"> ............... </tspan><tspan class="val">21 years, 2 months, 7 days</tspan></text>
+<text x="394" y="240" xml:space="preserve" class="mono"><tspan class="key">Uptime:</tspan><tspan class="dots"> ............... </tspan><tspan class="val">21 years, 2 months, 8 days</tspan></text>
 <text x="394" y="258" xml:space="preserve" class="mono"><tspan class="key">Host:</tspan><tspan class="dots"> .............. </tspan><tspan class="val">Universidade Veiga de Almeida</tspan></text>
 <text x="394" y="276" xml:space="preserve" class="mono"><tspan class="key">IDE:</tspan><tspan class="dots"> ....................... </tspan><tspan class="val">VSCode, IntelliJ IDEA</tspan></text>
 <text x="394" y="312" xml:space="preserve" class="mono"><tspan class="key">Languages.Code:</tspan><tspan class="dots"> .................. </tspan><tspan class="val">Java, Python, C</tspan></text>
@@ -113,5 +113,5 @@
 <rect x="72" y="848" width="150" height="22" fill="#d8d8d8"/><path d="M72.5,869.5V848.5H221.5" stroke="#808080" fill="none"/><path d="M221.5,848.5V869.5H72.5" stroke="#fff" fill="none"/><path d="M73.5,868.5V849.5H220.5" stroke="#404040" fill="none"/><path d="M220.5,849.5V868.5H73.5" stroke="#dfdfdf" fill="none"/>
 <text x="80" y="863" class="uib">dzinhoavi@github</text>
 <rect x="660" y="848" width="128" height="22" fill="#fff"/><path d="M660.5,869.5V848.5H787.5" stroke="#808080" fill="none"/><path d="M787.5,848.5V869.5H660.5" stroke="#fff" fill="none"/><path d="M661.5,868.5V849.5H786.5" stroke="#404040" fill="none"/><path d="M786.5,849.5V868.5H661.5" stroke="#dfdfdf" fill="none"/>
-<text x="724" y="863" text-anchor="middle" class="ui">Updated 24/11/2026</text>
+<text x="724" y="863" text-anchor="middle" class="ui">Updated 25/11/2026</text>
 </svg>
